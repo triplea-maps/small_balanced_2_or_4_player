@@ -1,0 +1,22 @@
+Last updated Jan 18, 2010
+By Veqryn
+
+1.1
+increased PUs by 30
+changed properties to match ww2v3 with updated carrier/fighter production rules, but with diff neutral rules
+
+1.1.0.0.3
+updated to tripleA 1.1.1.0 by changing WW2V2 Tech Model to become WW2V3 Tech Model
+
+1.1.0.0.2
+Added factory_hit is factory attachment
+Made LHTR HB editable
+Added neutral flags
+Fixed Russians and Americans being on same team in 1v1 across
+Added a cruiser to starting positions
+Changed Folder to have underscores to that it could be hosted easier, and changed .xmls to reflect it
+
+1.1.0.0.1
+Added a changelog, yay
+Added WW2V3 rules
+Fixed all bugs found so far except for the MOORE AI bug (which may not be my maps fault)
