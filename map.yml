@@ -1,0 +1,6 @@
+map_name: small_balanced_2_or_4_player
+games:
+- {game_name: Small Balanced 4 Player, file_name: Small_Balanced_4_Player.xml}
+- {game_name: Small Balanced 2 Player sidebyside, file_name: Small_Balanced_2_Player_sidebyside.xml}
+- {game_name: Small Balanced 4 Player Teams, file_name: Small_Balanced_4_Player_Teams.xml}
+- {game_name: Small Balanced 2 Player across, file_name: Small_Balanced_2_Player_across.xml}
